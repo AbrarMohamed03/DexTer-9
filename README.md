@@ -21,7 +21,6 @@
 <a href="https://linkedin.com/in/mohamed-abrar-789399236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed-abrar-789399236" height="30" width="40" /></a>
 <a href="https://fb.com/m0hamed.abrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="m0hamed.abrar" height="30" width="40" /></a>
 <a href="https://instagram.com/mohamed._.abrar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mohamed._.abrar" height="30" width="40" /></a>
-<a href="https://discord.gg/DEX#0839" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="DEX#0839" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
